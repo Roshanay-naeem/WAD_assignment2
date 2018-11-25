@@ -1,0 +1,43 @@
+.banner{
+	background:url(/images/cover.jpg)
+	width: 100%;
+	height: 400px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.Do{
+	padding: 10px;
+	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.logo{
+	border-radius: 50%;
+	height: 75px;
+	width: 75px;
+}
+
+.col{
+	margin:20px;
+}
+.nav1{
+	background-color: black;
+	color: white;
+	font-size: 15px;
+	padding-bottom: 0px;
+}
+
+footer{
+	height: auto;
+	width: 100%;
+	background-color: black;
+	color:white;
+}
+footer.h6{
+	color:white;
+}
+footer.p{
+	color:grey;
+}
